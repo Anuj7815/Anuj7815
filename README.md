@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj7815" alt="anuj7815" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/waynedam" target="blank"><img src="https://img.shields.io/twitter/follow/waynedam?logo=twitter&style=for-the-badge" alt="waynedam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/waynedam" target="blank"><img src="https://img.shields.io/twitter/follow/AnujGup57688733?logo=twitter&style=for-the-badge" alt="waynedam" /></a> </p>
 
 - 🔭 I’m currently studying in **Arya College of Engineering and IT.**
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/waynedam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waynedam" height="30" width="40" /></a>
+<a href="https://twitter.com/AnujGup57688733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waynedam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-gupta-7a0252233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-gupta-7a0252233/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/anujgupta7815/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anujgupta7815/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anujgupta7815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anujgupta7815" height="30" width="40" /></a>
