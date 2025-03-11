@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/waynedam" target="blank"><img src="https://img.shields.io/twitter/follow/AnujGup57688733?logo=twitter&style=for-the-badge" alt="waynedam" /></a> </p>
 
-- 🔭 I’m currently studying in **Arya College of Engineering and IT.**
+- 🔭 I’m currently Looking out for Software Development Engineer opportunities.**
 
 - 🌱 I’m currently learning **TypeScript.**
 
@@ -22,11 +22,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anuj-gupta-7a0252233/](https://www.linkedin.com/in/anuj-gupta-7a0252233/)
 
-- 💬 Ask me about **React, Node, Express, DSA.**
+- 💬 Ask me about **React, Node, Express,MongoDB, DSA.**
 
 - 📫 How to reach me **anujgupta08082001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G7ven6_DbNQ9MtWSpo3z8DNGraEROCwk/view?usp=sharing](https://drive.google.com/file/d/1G7ven6_DbNQ9MtWSpo3z8DNGraEROCwk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G7ven6_DbNQ9MtWSpo3z8DNGraEROCwk/view?usp=sharing]([https://drive.google.com/file/d/1G7ven6_DbNQ9MtWSpo3z8DNGraEROCwk/view?usp=sharing](https://drive.google.com/file/d/11i4o1EJjv5CUedg4It5uUuoKv94q7Nwc/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
